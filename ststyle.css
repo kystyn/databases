@@ -1,0 +1,57 @@
+#today {
+    position: relative;
+    left: 5px;
+    text-align: right;
+    margin-right: 5%;
+    //margin-top: 2%;
+    //float: left;
+}
+
+#start_info {
+    float: left;
+    width: 70%;
+}
+
+#stmap {
+    width: 80%;
+    height: 30%;
+    //float: left;
+}
+
+#add-train {
+    //position: relative;
+    //top: 5px;
+    //float: left;
+    //width: 30%;
+}
+
+.trainT {
+    display: none;
+    position: relative;
+    left: 10px
+;
+    //right: 10px;
+    width: 50%;
+    //float: left;
+}
+
+.centredtxt {
+    text-align: center;
+    align: center;
+}
+
+tr:hover {
+    background-color: bisque;
+}
+
+img {
+    opacity: 0.9;
+}
+
+p {
+    line-height: 0.1;
+}
+
+#recieve{
+    color: green;
+}
